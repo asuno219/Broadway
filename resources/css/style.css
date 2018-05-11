@@ -30,6 +30,12 @@ body{
   text-align: left;
 }
 
+.top a{
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
 .bottom a{
   color: white;
   text-align: left;
@@ -40,12 +46,6 @@ ul{
   list-style-type: none;
   margin: o;
   padding:0;
-}
-
-.top a{
-  color: white;
-  text-align: center;
-  font-size: 18px;
 }
 
 h2{
